@@ -1,4 +1,5 @@
 # How to run tutor Api Bot
+This project is a practice to build an API REST using Sping Boot to manage list of students and exercises responses.
 
 
 ## Requirements
