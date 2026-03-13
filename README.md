@@ -29,26 +29,26 @@ The following screenshot demostrate the fuction of the project, using Postman.
 
 ### 1. Manage student list
 * **Listar todos los estudiantes:**
-![List of all students](TutorBot-APIt/getStudents.png)
+![List of all students](TutorBot-API/getStudents.png)
 
 * **Get student by Id:**
-![Student by ID](TutorBot-APIt/getStudenId.png)
+![Student by ID](TutorBot-API/getStudenId.png)
 
 * **Register new student:**
-![New student](TutorBot-APIt/addNew.png)
+![New student](TutorBot-API/addNew.png)
 
 ### 2. Exercises and scores
 * **List all the exercises in the repository:**
-![List of exercises](TutorBot-APIt/exercisesGet.png)
+![List of exercises](TutorBot-API/exercisesGet.png)
 
 * **Filter by difficulty e.g(Easy, Medium, Hard):**
-![Filter by difficulty](TutorBot-APIt/difficultyEx.png)
+![Filter by difficulty](TutorBot-API/difficultyEx.png)
 
 * **Send an answer and recieve feedback:**
-![Submmit answer](TutorBot-APIt/feedbackstudent.png)
+![Submmit answer](TutorBot-API/feedbackstudent.png)
 
 * **Recorded of answers with feedback by student:**
-![Recorded feedback](TutorBot-APIt/studentFeedbacks.png)
+![Recorded feedback](TutorBot-API/studentFeedbacks.png)
 
 * **Error message for students not found (404):**
-![Error 404](TutorBot-APIt/studentMessage.png)
+![Error 404](TutorBot-API/studentMessage.png)
